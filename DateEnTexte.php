@@ -10,7 +10,7 @@
  * @since 07 avril 2017
  * @author Dylan Skiba <contact@dylanskiba.fr>
  * @copyright © 2017 Dylan Skiba
- * @version 0.01
+ * @version 0.02
  */
 
 /**
@@ -133,5 +133,3 @@ function timestampEnText($timestamp = null)
 
 	return $text_total;
 }
-
-echo timestampEnText();
